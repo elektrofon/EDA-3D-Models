@@ -9,9 +9,13 @@ Thumbs.db
 
 # Application
 *.pyc
-*.fcstd1
-*.FCStd1
-*.fcstd2
-*.FCStd2
+*.fcstd[1-9]
+*.FCStd[1-9]
+*.fcstd.*
 *.FCStd.*
+*.pyc
+*.blend[1-9]
+__pycache__
+dist
 Private
+build
